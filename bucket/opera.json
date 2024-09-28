@@ -1,5 +1,5 @@
 {
-    "version": "112.0.5197.30",
+    "version": "114.0.5282.21",
     "description": "Fast, secure, easy-to-use browser.",
     "homepage": "https://www.opera.com/",
     "license": {
@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://get.geo.opera.com/pub/opera/desktop/112.0.5197.30/win/Opera_112.0.5197.30_Setup_x64.exe#/dl.7z",
-            "hash": "7490a7551e7e93533936281f4e0c8c7ef7772cb5fc0e5e8cb3d5b71ab1ad1609"
+            "url": "https://get.geo.opera.com/pub/opera/desktop/114.0.5282.21/win/Opera_114.0.5282.21_Setup_x64.exe#/dl.7z",
+            "hash": "e0676e14798238498be7074dec41bf98c05c0146fbf49ec1371c7a4ab19a3052"
         },
         "32bit": {
-            "url": "https://get.geo.opera.com/pub/opera/desktop/112.0.5197.30/win/Opera_112.0.5197.30_Setup.exe#/dl.7z",
-            "hash": "d5668195cf3ef00093c317ff338d678ab09cfd591f4e153652ae47ac57194473"
+            "url": "https://get.geo.opera.com/pub/opera/desktop/114.0.5282.21/win/Opera_114.0.5282.21_Setup.exe#/dl.7z",
+            "hash": "81f9dc8af39a85629e56040a309e457a48aa6a1cb8850c3775c9cf61d6df9617"
         }
     },
     "installer": {

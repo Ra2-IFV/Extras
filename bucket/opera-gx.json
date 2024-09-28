@@ -1,5 +1,5 @@
 {
-    "version": "111.0.5168.90",
+    "version": "113.0.5230.135",
     "description": "Opera GX is a special version of the Opera browser built specifically for gamers.",
     "homepage": "https://www.opera.com/gx",
     "license": {
@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://get.opera.com/pub/opera_gx/111.0.5168.90/win/Opera_GX_111.0.5168.90_Setup_x64.exe#/dl.7z",
-            "hash": "472a88ec3d9c4b0c1b70a145fefaaa76840031dd415752ccb7b623e9d9f53b71"
+            "url": "https://get.opera.com/pub/opera_gx/113.0.5230.135/win/Opera_GX_113.0.5230.135_Setup_x64.exe#/dl.7z",
+            "hash": "9fd727346678d18e253d13bdf1bdd2bf4ef397740a93a91d2d9567a208099a0b"
         },
         "32bit": {
-            "url": "https://get.opera.com/pub/opera_gx/111.0.5168.90/win/Opera_GX_111.0.5168.90_Setup.exe#/dl.7z",
-            "hash": "e12da9725ed7e512bef02da43d9966584d029342a44573c16014e94e7c5aa5d0"
+            "url": "https://get.opera.com/pub/opera_gx/113.0.5230.135/win/Opera_GX_113.0.5230.135_Setup.exe#/dl.7z",
+            "hash": "eea5aa94c6710a6340935759ea2faecdb6a6881f9032a7cb9d5d8d426f637030"
         }
     },
     "installer": {
